@@ -63,7 +63,7 @@ Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou apr
 ### Connect with me:
 
 <p>
-<a href="https://https://www.instagram.com/indi.frx/">
+<a href="https://https://www.instagram.com/indi.frx">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ingridalvesfarias">
