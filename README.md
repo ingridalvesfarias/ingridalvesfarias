@@ -6,7 +6,7 @@ Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou apr
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Conhecimentos
 
 <img 
     align="left" 
