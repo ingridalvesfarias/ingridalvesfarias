@@ -1,8 +1,8 @@
 ## 🦋 Ingrid Farias
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Full Stack`**
 
-Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou aprendendo e criando projetos com HTML e CSS, além de iniciar o aprendizado de JavaScript e React. Busco me profissionalizar na área da tecnologia, e com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução como programadora e aplicar a melhoria contínua em minha trajetória.
+Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou aprendendo e criando projetos com HTML, CSS e JavaScript além de iniciar o aprendizado de React e TypeScript. Busco me profissionalizar na área da tecnologia, e com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução como programadora e aplicar a melhoria contínua em minha trajetória.
 
 ---
 
@@ -75,7 +75,19 @@ Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou apr
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ingridalvesfarias&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ingridalvesfarias&layout=compact&theme=tokyonight" />
+<p>
+  <img 
+      align="left"
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=ingridalvesfarias&show_icons=true&theme=tokyonight&count_private=true"
+    />
+    
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"  
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ingridalvesfarias&layout=compact&theme=tokyonight"
+    />
 </p>
