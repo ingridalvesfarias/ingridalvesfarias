@@ -12,7 +12,7 @@ Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou apr
             src="https://img.shields.io/badge/MEU%20PORTFÓLIO-FFC107?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FFA000"
         />
     </a>
-    <a href="https://www.instagram.com/indi.frx/" target="_blank">
+    <a href="https://www.instagram.com/tech.indi/" target="_blank">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
