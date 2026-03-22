@@ -79,15 +79,14 @@ Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou apr
   <img 
       align="left"
       alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
+      height="180"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=ingridalvesfarias&show_icons=true&theme=tokyonight&count_private=true"
     />
     
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"  
+      height="180"  
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ingridalvesfarias&layout=compact&theme=tokyonight"
     />
 </p>
