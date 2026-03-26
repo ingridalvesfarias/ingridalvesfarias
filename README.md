@@ -19,18 +19,18 @@ Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou apr
             src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C2185B"
         />
     </a>
-    <a href="https://github.com/ingridalvesfarias?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ingridalvesfarias?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ingridalvesfarias?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"
+            src="https://img.shields.io/github/stars/ingridalvesfarias?style=for-the-badge&logo=github&label=ESTRELAS&color=55960c&labelColor=488207&logoColor=white"
         />
     </a>
     <a href="https://github.com/ingridalvesfarias?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ingridalvesfarias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
+            src="https://img.shields.io/github/followers/ingridalvesfarias?style=for-the-badge&logo=github&label=SEGUIDORES&color=236ad3&labelColor=1155ba&logoColor=white"
         />
     </a>
 </p>
