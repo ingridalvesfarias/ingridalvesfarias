@@ -1,6 +1,6 @@
 ## 🦋 Ingrid Farias
 
-**`Desenvolvedora Full Stack`**
+**`Desenvolvedora Full Stack em Formação`**
 
 Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou aprendendo e criando projetos com HTML, CSS e JavaScript além de iniciar o aprendizado de React e TypeScript. Busco me profissionalizar na área da tecnologia, e com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução como programadora e aplicar a melhoria contínua em minha trajetória.
 
