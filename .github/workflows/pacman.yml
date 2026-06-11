@@ -12,11 +12,11 @@ jobs:
 
     steps:
       - name: Generate pacman SVG
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ingridalvesfarias
           outputs: |
-            dist/pacman-contribution-graph.svg?type=pacman
+            dist/pacman-contribution-graph.svg?type=pacman&color_snake=yellow&color_dots=#4D78CC,#1B4C9C,#143A75,#0D2750
             dist/pacman-contribution-graph-dark.svg?type=pacman&palette=github-dark
 
       - name: Push to output branch
