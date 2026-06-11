@@ -9,19 +9,19 @@
 <div align="center">
   <img height="220" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/spiderCatCoffe%20(2).png" />
 
-  <p><strong>Desenvolvedora Full Stack em formação</strong></p>
+  <p><strong>Desenvolvedora Full Stack em formação.</strong></p>
 
-  <a href="mailto:ingridalvesfarias@email.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000" />
+  <a href="mailto:ingridkookfarias@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logoColor=FF00F6" />
   </a>
   <a href="https://www.linkedin.com/in/ingridalvesfarias">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000" />
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logoColor=FF00F6" />
   </a>
   <a href="https://www.instagram.com/indi.frx/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF0000" />
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logoColor=FF00F6" />
   </a>
   <a href="https://portfolio-ingrid-farias.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=googlechrome&logoColor=FF0000" />
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logoColor=FF00F6" />
   </a>
 </div>
 
@@ -30,7 +30,18 @@
 ## 🤖 Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgresql,mongodb,docker,materialui,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=materialui&theme=dark" title="Material UI" alt="Material UI" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" height="48" />
 </div>
 
 <br/>
@@ -61,7 +72,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/pacman-contribution-graph.svg">
 </picture>
 
 <div align="center">
