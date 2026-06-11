@@ -1,163 +1,69 @@
-## 🦋 Ingrid Farias
-
-**`Desenvolvedora Full Stack em Formação`**
-
-Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou aprendendo e criando projetos com HTML, CSS e JavaScript além de iniciar o aprendizado de React e TypeScript. Busco me profissionalizar na área da tecnologia, e com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução como programadora e aplicar a melhoria contínua em minha trajetória.
-
-<p align="left">
-    <a href="https://portfolio-ingrid-farias.vercel.app/" target="_blank">
-        <img 
-            alt="Meu Portfolio" 
-            title="Ver meu Portfólio" 
-            src="https://img.shields.io/badge/MEU%20PORTFÓLIO-FFC107?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FFA000"
-        />
-    </a>
-    <a href="https://www.instagram.com/indi.frx/" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C2185B"
-        />
-    </a>
-    <a href="https://github.com/ingridalvesfarias?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://img.shields.io/github/stars/ingridalvesfarias?style=for-the-badge&logo=github&label=ESTRELAS&color=55960c&labelColor=488207&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/ingridalvesfarias?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/ingridalvesfarias?style=for-the-badge&logo=github&label=SEGUIDORES&color=236ad3&labelColor=1155ba&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=FF0000" />
+</div>
 
 ---
 
-### 🤖 Linguagens e Conhecimentos
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F5F5&width=435&lines=Ol%C3%A1%2C+me+chamo+Ingrid+Farias!)](https://git.io/typing-svg)
 
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Material UI" 
-    title="Material UI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<div align="center">
+  <img height="220" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/spiderCatCoffe%20(2).png" />
 
-<br clear="all" />
+  <p><strong>Desenvolvedora Full Stack em formação</strong></p>
+
+  <a href="mailto:ingridalvesfarias@email.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000" />
+  </a>
+  <a href="https://www.linkedin.com/in/ingridalvesfarias">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000" />
+  </a>
+  <a href="https://www.instagram.com/indi.frx/">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF0000" />
+  </a>
+  <a href="https://portfolio-ingrid-farias.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=googlechrome&logoColor=FF0000" />
+  </a>
+</div>
+
+---
+
+## 🤖 Linguagens e Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgresql,mongodb,docker,materialui,git&theme=dark" />
+</div>
 
 <br/>
-<br/>
 
-### Connect with me:
+<div align="center">
+  <p>
+    Olá, me chamo Ingrid Farias e sou programadora Front-End. Atualmente, estou aprendendo e criando projetos com HTML, CSS e JavaScript além de iniciar o aprendizado de React e TypeScript. Busco me profissionalizar na área da tecnologia, e com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução como programadora e aplicar a melhoria contínua em minha trajetória.
+  </p>
+</div>
 
-<p>
-   <a href="https://www.instagram.com/indi.frx/">
-     <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-   <a href="https://www.linkedin.com/in/ingridalvesfarias">
-     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
-
-<br>
-<br>
+---
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ingridalvesfarias&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ingridalvesfarias&layout=compact&theme=tokyonight" />
-</p> 
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ingridalvesfarias&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridalvesfarias&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75" />&nbsp;
+
+  ## Minhas contribuições:
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&reversal=false&animation=blinking&color=FF0000" />
+</div>
