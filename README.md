@@ -11,18 +11,21 @@
 
   <p><strong>Desenvolvedora Full Stack em formação.</strong></p>
 
-  <a href="mailto:ingridkookfarias@gmail.com" target="_blank">
+<a href="mailto:ingridkookfarias@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logoColor=FF00F6" />
   </a>
-  <a href="https://www.linkedin.com/in/ingridalvesfarias" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logoColor=FF00F6" />
-  </a>
-  <a href="https://www.instagram.com/indi.frx/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logoColor=FF00F6" />
-  </a>
-  <a href="https://portfolio-ingrid-farias.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logoColor=FF00F6" />
-  </a>
+  
+<a href="https://www.linkedin.com/in/ingridalvesfarias" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logoColor=FF00F6" />
+</a>
+
+<a href="https://www.instagram.com/indi.frx/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logoColor=FF00F6" />
+</a>
+
+<a href="https://portfolio-ingrid-farias.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logoColor=FF00F6" />
+</a>
 </div>
 
 ---
