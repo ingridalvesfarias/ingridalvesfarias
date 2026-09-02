@@ -11,7 +11,7 @@
 
   <p><strong>Desenvolvedora Full Stack em formação.</strong></p>
 
-<a href="mailto:ingridkookfarias@gmail.com">
+<a href="mailto:ingridfarias.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logoColor=FF00F6" />
   </a>
   
