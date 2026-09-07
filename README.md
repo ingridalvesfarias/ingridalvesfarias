@@ -58,10 +58,9 @@
 ---
 
 ## 📊 Estatísticas
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ingridalvesfarias&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridalvesfarias&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="./profile/stats.svg" />
+  <img height="180" src="./profile/top-langs.svg" />
 </div>
 
 ---
