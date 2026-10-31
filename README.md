@@ -30,7 +30,7 @@
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🧰 Languages and Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" width="48" height="48" />
@@ -40,6 +40,7 @@
   <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" height="48" />
