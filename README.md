@@ -38,9 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 </p>
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75" />&nbsp;
   
 <h3 align="left">🎮 My Contributions</h3>
 
@@ -51,6 +48,25 @@
     <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/galaga-contribution-graph.svg">
   </picture>
 </div>
+
+<p align="center" style="margin-top: 0;">
+  <a href="https://www.linkedin.com/in/ingridalvesfarias">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://github.com/ingridalvesfarias">
+    <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/indi.frx/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
+  </a>&nbsp;
+  <a href="mailto:ingridfarias.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Email" />
+  </a>
+  
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75" />
+</p>
+
+---
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&reversal=false&animation=blinking&color=FF0000" />
