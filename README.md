@@ -2,85 +2,56 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=FF0000" />
 </div>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F5F5&width=435&lines=Bem-vindo(a)+ao+meu+perfil!;Working+hard+in+silence.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F5F5&width=435&lines=Ol%C3%A1%2C+me+chamo+Ingrid+Farias!)](https://git.io/typing-svg)
+<img align="right" height="220" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/spiderCatCoffe%20(2).png?raw=true" alt="Spider Cat" />
 
-<div align="center">
-  <img height="220" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/spiderCatCoffe%20(2).png" />
+<p>
+  Olá, Me chamo Ingrid Farias! Desenvolvedora Full Stack apaixonada por criar soluções digitais que unem um design atraente a uma alta performance. O meu trabalho é transformar ideias em plataformas web completas, responsivas e fáceis de usar.
+</p>
 
-  <p><strong>Desenvolvedora Full Stack em formação.</strong></p>
+<p>
+  Tenho um foco especial no Front-End, utilizando tecnologias modernas como React e TypeScript. No Back-End, construo bases sólidas e seguras com Node.js e bancos de dados para garantir que tudo funcione perfeitamente.
+</p>
 
-<a href="mailto:ingridfarias.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logoColor=FF00F6" />
-  </a>
-  
-<a href="https://www.linkedin.com/in/ingridalvesfarias">
-  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logoColor=FF00F6" />
-</a>
-
-<a href="https://www.instagram.com/indi.frx/">
-  <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logoColor=FF00F6" />
-</a>
-
-<a href="https://portfolio-ingrid-farias.vercel.app/">
-  <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logoColor=FF00F6" />
-</a>
-</div>
+<p>
+  Sou movida pela inovação e pelo aprendizado contínuo. Atualmente, exploro ferramentas modernas, como integrações com Inteligência Artificial, para entregar projetos cada vez mais inteligentes e eficientes. Aqui compartilho meus projetos e experimentos em desenvolvimento de software!
+</p>
 
 ---
 
-## 🧰 Languages and Tools
+### 🧰 Languages and Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=materialui&theme=dark" title="Material UI" alt="Material UI" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" height="48" />
-</div>
-
-<br/>
-
-<div align="center">
-  <p>
-   Olá! Sou Ingrid Farias, desenvolvedora Full Stack com foco em Front-End. Desenvolvo aplicações web utilizando HTML, CSS e JavaScript, e trabalho com tecnologias como React, TypeScript e Node.js. Atualmente, estou aprofundando meus conhecimentos em arquitetura de software, bancos de dados, Docker e inteligência artificial, buscando criar soluções cada vez mais completas, eficientes e bem estruturadas.
-
-Aqui compartilho meus projetos e experimentos em desenvolvimento de software.
-  </p>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
-</div>
-
----
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+</p>
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75" />&nbsp;
+  
+<h3 align="left">🎮 My Contributions</h3>
 
-  ## 🎮 Minhas contribuições:
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/galaga-contribution-graph.svg">
+  </picture>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/ingridalvesfarias/ingridalvesfarias/output/galaga-contribution-graph.svg">
-</picture>
-
-<div align="center">
+<div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&reversal=false&animation=blinking&color=FF0000" />
 </div>
