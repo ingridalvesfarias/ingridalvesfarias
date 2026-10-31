@@ -59,10 +59,11 @@ Aqui compartilho meus projetos e experimentos em desenvolvimento de software.
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
+
 <div align="center">
-  <img height="180" src="./profile/stats.svg" />
-  <img height="180" src="./profile/top-langs.svg" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
