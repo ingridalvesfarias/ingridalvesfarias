@@ -51,7 +51,9 @@
 
 <div align="center">
   <p>
-   Olá! Sou Ingrid Farias, desenvolvedora Full Stack em formação. Crio projetos com HTML, CSS e JavaScript e aprofundo meus conhecimentos em TypeScript, React, Node.js, PostgreSQL, MongoDB e Docker. Aqui compartilho meus projetos e minha evolução enquanto me preparo para a primeira oportunidade na área.
+   Olá! Sou Ingrid Farias, desenvolvedora Full Stack com foco em Front-End. Desenvolvo aplicações web utilizando HTML, CSS e JavaScript, e trabalho com tecnologias como React, TypeScript e Node.js. Atualmente, estou aprofundando meus conhecimentos em arquitetura de software, bancos de dados, Docker e inteligência artificial, buscando criar soluções cada vez mais completas, eficientes e bem estruturadas.
+
+Aqui compartilho meus projetos e experimentos em desenvolvimento de software.
   </p>
 </div>
 
